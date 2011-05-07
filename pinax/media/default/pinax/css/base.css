@@ -256,7 +256,13 @@ p.what_next {
     color: red;
     font-weight: bold;
 }
-
+div.profiles_avatar {
+  float: left;
+}
+div.profiles_listing {
+  padding: 5px; 
+  margin-left: 50px;
+}
 div.profile_info p {
     margin: 0;
 }
